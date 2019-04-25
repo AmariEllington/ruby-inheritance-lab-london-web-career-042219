@@ -5,6 +5,7 @@ def learn(string)
 end
 
 def knowledge
-self.@knowledge
+    @knowledge
 end
+
 end
